@@ -1,0 +1,45 @@
+.ico {
+    height: 24px;
+    width: 24px;
+    margin: 0 0 0 3px;
+}
+
+.Note_text {
+    flex: 1;
+    resize: none;
+    background-color: transparent;
+    font-size: 1rem;
+    line-height: 1.875rem;
+    outline: none;
+    border: none;
+}
+
+.footer {
+    height: 15%;
+    width: 100%;
+    display: flex;
+    border-bottom-right-radius: 45px;
+    border-bottom-left-radius: 45px;
+    padding: 4px;
+
+    .icodel {
+        height: 24px;
+        width: 24px;
+        margin: 5px 0 0 0;
+    }
+
+    .Footer_text {
+        height: 100%;
+        width: 82%;
+        display: flex;
+        resize: none;
+        background-color: transparent;
+        margin: 0 5px 5px 5px;
+        border-radius: 30px;
+        padding: 2px 0 0 10px;
+        font-size: 1rem;
+        line-height: 1.875rem;
+        outline: none;
+        border: none;
+    }
+}
